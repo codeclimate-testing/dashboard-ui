@@ -1,0 +1,10 @@
+engines:
+  duplication:
+    channel: beta
+    enabled: true
+    config:
+      languages:
+      - ruby
+      - javascript
+      - python
+      - php
